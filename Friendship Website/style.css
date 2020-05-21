@@ -1,0 +1,38 @@
+.style1{
+
+background-color:#FFCC66; width:100%;
+ 
+}
+
+.image { height:100px; width:150px;
+}
+
+.header { style="background-color:Tomato;"}
+
+a{
+ font-family:'Jockey One', sans-serif;
+ text-decoration: none;
+ background:#264040;
+ border-radius: 2px;
+ padding: 4px;
+ position: relative;
+ top:3px;
+ left:5px;
+ right:10px;
+ transition: all 0.5s;
+ }
+a:hover{
+        background: #9fa2a3;
+        }
+
+ul{
+   color: #264040;
+   font-family:"Comic Sans MS";
+}
+table{font-family:Courier;
+      font-size:20px;
+}
+
+p{font-family:"Copperplate Gothic";}
+
+q{font-style:"Bold Italic";}
